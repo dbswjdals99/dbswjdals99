@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a> &nbsp
 </p>
 
-<
-<h3 align="center">Social Networking Service</h3>
+<br>
+<h3 align="center">:balloon:Social Networking Service:balloon:</h3>
 <p align="center">
 <a href="https://fb.com/윤정민" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="윤정민" height="30" width="40" /></a>
 <a href="https://instagram.com/y_jeongmin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y_jeongmin" height="30" width="40" /></a>
