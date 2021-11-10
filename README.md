@@ -20,7 +20,7 @@
 <h3 align="center">Social Networking Service</h3>
 <p align="center">
 <a href="https://fb.com/윤정민" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="윤정민" height="30" width="40" /></a>
-<a href="https://instagram.com/y_jeongmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y_jeongmin" height="30" width="40" /></a>
+<a href="https://instagram.com/y_jeongmin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y_jeongmin" height="30" width="40" /></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
